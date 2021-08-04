@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "synapse-demo-1"
+		},
+		"synapse-demo-1-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"AzureMLService1_properties_typeProperties_subscriptionId": {
+			"value": "d87d4530-ce4e-4d84-b997-7a78d01e2906"
+		},
+		"AzureMLService1_properties_typeProperties_resourceGroupName": {
+			"value": "aiestate"
+		},
+		"synapse-demo-1-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://khdldemo1.dfs.core.windows.net"
+		}
+	}
+}
