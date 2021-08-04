@@ -19,6 +19,13 @@
 		},
 		"metadata": {
 			"saveOutput": true,
+			"kernelspec": {
+				"name": "synapse_pyspark",
+				"display_name": "Synapse PySpark"
+			},
+			"language_info": {
+				"name": "python"
+			},
 			"a365ComputeOptions": {
 				"id": "/subscriptions/d87d4530-ce4e-4d84-b997-7a78d01e2906/resourceGroups/synapse-demo/providers/Microsoft.Synapse/workspaces/synapse-demo-1/bigDataPools/sparkdemo",
 				"name": "sparkdemo",
@@ -41,6 +48,25 @@
 				"cell_type": "code",
 				"source": [
 					"print('Hello World')"
+				],
+				"execution_count": null
+			},
+			{
+				"cell_type": "code",
+				"metadata": {
+					"jupyter": {
+						"source_hidden": false,
+						"outputs_hidden": false
+					},
+					"nteract": {
+						"transient": {
+							"deleting": false
+						}
+					},
+					"collapsed": true
+				},
+				"source": [
+					""
 				],
 				"execution_count": null
 			}
