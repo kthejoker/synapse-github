@@ -1,5 +1,5 @@
 {
-	"name": "Notebook 1",
+	"name": "MyNotebook",
 	"properties": {
 		"bigDataPool": {
 			"referenceName": "sparkdemo",
